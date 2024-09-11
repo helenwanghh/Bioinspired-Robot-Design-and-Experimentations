@@ -1,7 +1,7 @@
 # Bio-inspired Robot Design and Experimentations
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://github.com/helenwanghh/Bioinspired-Robot-Design-and-Experimentations/blob/main/Bioinspired%20Robot%20Design%20and%20Experimentations%20Expo%20Poster.pdf
 
 ![alt tag](http://placecorgi.com/1200/650)
 
