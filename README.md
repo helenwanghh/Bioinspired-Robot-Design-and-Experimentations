@@ -4,7 +4,7 @@ Write a short sentence or two about this project and what it does. Be sure to in
 **Link to project:** <a href="https://github.com/helenwanghh/Bioinspired-Robot-Design-and-Experimentations/blob/main/Falcon-inspired%20Robotic%20Glider%20with%20Multi-joint%20Wing%20Morphing%20Final%20Report.pdf">Falcon-inspired Robotic Glider with Multi-joint
 Wing Morphing</a>
 
-![Youtube Video here!!]([http://placecorgi.com/1200/650](https://youtu.be/vbHEWpDanqk?si=LpIxs03F4tClLTRK))
+![Youtube Video here!!]([http://placecorgi.com/1200/650])
 
 ## How It's Made:
 
@@ -24,10 +24,10 @@ No matter what your experience level, being an engineer means continuously learn
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/alecortega/palettable
+**Youtube Video here!!:** https://youtu.be/vbHEWpDanqk?si=TY14ARuqAsPff76I
 
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
+%**Twitter Battle:** https://github.com/alecortega/twitter-battle
 
-**Patch Panel:** https://github.com/alecortega/patch-panel
+%**Patch Panel:** https://github.com/alecortega/patch-panel
 
 
